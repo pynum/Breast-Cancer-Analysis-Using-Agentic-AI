@@ -1,0 +1,5 @@
+flask
+flask-cors
+groq
+torch  # Required for GNN module
+numpy  # Likely required for data handling
