@@ -5,3 +5,4 @@ torch  # Required for GNN module
 numpy  # Likely required for data handling
 tensorflow 
 pillow
+python-dotenv
